@@ -1,0 +1,38 @@
+.container{width:960;
+margin:0 auto
+}  
+header{background-image:url(gay/gojigay.png);
+height:120px;}
+
+nav{width:30%;
+background-color:#152029;
+height:450px;
+float:left;
+}
+article{background-color:#1C1C1C;
+height:450px;
+width:70%;
+float:left;}
+
+footer{
+clear:both;
+background-color:#2F3C48;
+padding:30px;
+text-align:center;
+}
+
+ul{
+margin:0;}
+
+a:link {color:White;
+background-color: #2F3C48;
+display:inline-block;
+text-align:center;
+text-decoration:none;
+padding:5px 5px;
+width:200px;
+}
+
+a:hover{color:White; background-color:Black;}
+a:active{color:White;}
+a:visited{color:Black;}
